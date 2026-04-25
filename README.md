@@ -1,62 +1,61 @@
-# Zdrave
-Repo zameraný na vývoj zdravej výživy a softvéru k usporiadaniu bázy znalostí
-# Dr.FYTO Research & Development Manifest
+# Dr.FYTO – Výskumno-vývojový manifest
 
-## 🧭 Purpose
-This repository serves as the **single source of truth** for developing, testing, and applying phyto-based products and procedures (Dr.FYTO ecosystem).
+## 🧭 Účel
+Tento repozitár je **jediný zdroj pravdy (single source of truth)** pre vývoj, testovanie a aplikáciu fyto-produktov a postupov (ekosystém Dr.FYTO).
 
-We operate as a **development team**, not as a blog or opinion platform.
+Pracujeme ako **vývojový tím**, nie ako redakcia.
 
 ---
 
-## 🎯 Core Principle
+## 🎯 Základný princíp
 
-> We do not argue about truth.  
-> We discover, test, and apply what works.
-
----
-
-## ⚡ Functional Principle
-
-> If a phenomenon works repeatedly under defined conditions, it is valid — even if the full mechanism is not yet understood.
+> Nehádame sa o pravde.  
+> Objavujeme, testujeme a používame to, čo funguje.
 
 ---
 
-## 🔬 Levels of Knowledge
+## ⚡ Princíp funkčnosti
 
-| Level | Meaning | Priority |
-|------|--------|----------|
-| E (Empirical) | Observed, repeatable effect | 🔴 Highest |
-| M (Model) | Explanation of mechanism | 🟡 Secondary |
-| T (Theory) | Formal scientific framework | 🔵 Optional |
-
-**Rule:**  
-E → M → T (never the opposite)
+> Ak jav opakovateľne funguje za definovaných podmienok, je platný –  
+> aj keď jeho mechanizmus nie je úplne pochopený.
 
 ---
 
-## 👥 Roles
+## 🔬 Úrovne poznania
 
-### Domain Lead (Human)
-- Defines hypotheses
-- Provides empirical observations
-- Guides direction
+| Úroveň | Význam | Priorita |
+|-------|--------|----------|
+| E (Empiria) | Pozorovaný, opakovateľný efekt | 🔴 Najvyššia |
+| M (Model) | Vysvetlenie mechanizmu | 🟡 Druhotná |
+| T (Teória) | Formálny vedecký rámec | 🔵 Voliteľná |
+
+**Pravidlo:**  
+E → M → T (nikdy opačne)
+
+---
+
+## 👥 Roly
+
+### Domain Lead (človek)
+- definuje hypotézy  
+- prináša empirické poznatky  
+- určuje smer
 
 ### Research Engine (AI)
-- Structures data
-- Maps relationships
-- Proposes experiments
-- Flags uncertainty
+- štruktúruje dáta  
+- mapuje súvislosti  
+- navrhuje experimenty  
+- označuje neistoty
 
-### Evidence (Arbiter)
-- Data
-- Observations
-- Repeatability
+### Dôkaz (arbiter)
+- dáta  
+- pozorovania  
+- opakovateľnosť
 
 ---
 
-## 🧪 Development Workflow
+## 🧪 Vývojový postup
 
-### 1. Hypothesis Definition
+### 1. Definícia hypotézy
 
-Each hypothesis must follow this structure:
+Každá hypotéza má tvar:
