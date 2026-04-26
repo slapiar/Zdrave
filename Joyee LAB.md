@@ -60,7 +60,7 @@ Tak sa kruh uzatvára.
 Nie ako náladu, ale ako vnútorný prameň.
 
 **LAB** znamená laboratórium.  
-Nie studené, akademické, odtrhnuté od života, ale praktické miesto skúmania.
+Nie studené, akademické, odtrhnuté od života, ale praktické miesto skúmania, ktoré analyzuje plusy a mínusy, hrozby a z nich vyplývajúce príležitosti k rozvoju. Nie je to učebňa, kde sa vnucujú tvrdenia, ale skúmajú sa empirické skúsenosti a znalosti rovnako ako ich vedecké hodnotenia. Tu sa dejú aj objavy, ale žiadne zázraky. Zdravý rozum v priestore a Radosť Žiť! Nech je to náš pozdrav.
 
 Spolu tieto dve slová tvoria jeden priestor:
 
