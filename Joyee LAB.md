@@ -54,6 +54,35 @@ Tak sa kruh uzatvára.
 
 ---
 
+## Tri modality života v radosti
+
+Život v radosti sa prejavuje tromi základnými modalitami:
+
+- **Prijatie**
+- **Radosť**
+- **Nadšenie**
+
+Prijatie je prvý prah.  
+Neznamená rezignáciu ani kapituláciu, ale koniec zbytočného odporu voči tomu, čo práve je.
+
+Radosť je vnútorný prameň.  
+Nevzniká ako odmena za priaznivé okolnosti, ale vychádza zo samotného bytia.
+
+Nadšenie je radosť v pohybe.  
+Je to tvorivá sila, ktorá vzniká vtedy, keď človek prestane konať z tlaku a začne konať z vnútorného súhlasu so životom.
+
+> **Prijatie otvára priestor.  
+> Radosť ho napĺňa.  
+> Nadšenie ho rozvíja.**
+
+Bez prijatia niet pokoja.  
+Bez pokoja niet radosti.  
+Bez radosti niet pravého nadšenia.
+
+Tieto tri modality nepochádzajú z vonkajšieho sveta foriem.  
+Sú prejavom hlbšieho poriadku života, ktorý sa cez človeka môže odraziť navonok.
+---
+
 ## Prečo Joyee LAB
 
 **Joyee** znamená živú radosť.  
@@ -271,4 +300,4 @@ Priestor radosti.
 
 **Joyee LAB.**
 
-**Radosť žiť!**
+**Radosť Žiť!**
