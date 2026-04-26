@@ -2,7 +2,7 @@
 
 ## Základný manifest priestoru radosti
 
-**Joyee LAB** je priestor, kde sa vnútorná radosť stretáva s vonkajším svetom.
+**Joyee LAB** je priestor, kde sa vnútorná radosť stretáva s vonkajším svetom a robí ho šťastnejším, aby sa mohol odraziť radosťou v srdciach prítmných.
 
 Nie je to ambulancia.  
 Nie je to ezoterický salónik.  
