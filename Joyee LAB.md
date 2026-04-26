@@ -2,7 +2,7 @@
 
 ## Základný manifest priestoru radosti
 
-**Joyee LAB** je priestor, kde sa vnútorná radosť stretáva s vonkajším svetom a robí ho šťastnejším, aby sa mohol odraziť radosťou v srdciach prítmných.
+**Joyee LAB** je priestor, kde sa vnútorná radosť stretáva s vonkajším svetom a robí ho šťastnejším, aby sa mohol odraziť späť ako radosť v srdciach prítomných.
 
 Nie je to ambulancia.  
 Nie je to ezoterický salónik.  
@@ -60,7 +60,15 @@ Tak sa kruh uzatvára.
 Nie ako náladu, ale ako vnútorný prameň.
 
 **LAB** znamená laboratórium.  
-Nie studené, akademické, odtrhnuté od života, ale praktické miesto skúmania, ktoré analyzuje plusy a mínusy, hrozby a z nich vyplývajúce príležitosti k rozvoju. Nie je to učebňa, kde sa vnucujú tvrdenia, ale skúmajú sa empirické skúsenosti a znalosti rovnako ako ich vedecké hodnotenia. Tu sa dejú aj objavy, ale žiadne zázraky. Zdravý rozum v priestore a Radosť Žiť! Nech je to náš pozdrav.
+Nie studené, akademické, odtrhnuté od života, ale praktické miesto skúmania.
+
+Analyzuje plusy a mínusy, hrozby a z nich vyplývajúce príležitosti k rozvoju.  
+Nie je to učebňa, kde sa vnucujú tvrdenia.  
+Je to priestor, kde sa skúmajú empirické skúsenosti a znalosti rovnako ako ich vedecké hodnotenia.
+
+Tu sa môžu diať objavy, ale nie zázraky na objednávku.
+
+**Zdravý rozum v priestore. Radosť žiť!**
 
 Spolu tieto dve slová tvoria jeden priestor:
 
@@ -112,12 +120,12 @@ Joyee LAB skúma malé aj veľké kroky, ktoré môžu človeku vracať:
 
 Témy môžu byť napríklad:
 
-- Radosť zo života, ako najvyšší cieľ
-- Príroda životu, Človek prírode
+- Radosť zo života ako najvyšší cieľ
+- Príroda životu, človek prírode
 - Zdravie a krása
-- Výživa 
+- Výživa
 - Shinrin-Yoku / kúpanie sa prírodou
-- Očistné a hojivé pobyty v lese a prírode vôbec
+- Očistné a hojivé pobyty v lese a prírode
 - byliny a fyto-produkty
 - spánok
 - slnko a tieň
@@ -157,43 +165,6 @@ Namiesto toho budeme skúmať:
 - čo hovorí skúsenosť
 - čo hovorí literatúra
 - čo treba overiť
-
----
-# Vzťah k Dr.Fyto, TopTour a destináciám
-
-Joyee LAB nie je izolovaný projekt.
-
-Je to spoločný vnútorný priestor, v ktorom sa môžu prepájať:
-
-Dr.Fyto – fyto-produkty, rastliny, prírodné látky, skúsenosť tela
-TopTour – cestovný ruch, pobyty, zážitky, destinácie
-Zdravé – znalostná báza, zápisy, poznanie, metodika
-decentralizované komunity – život v konkrétnych miestach, spolupráca, miestna odolnosť
-Shinrin-Yoku – vedomý pobyt v prírode, návrat k prostrediu, ktoré lieči nepriamo tým, že človeka vracia k sebe
-Jednovetové jadro
-
-Joyee LAB je laboratórium radosti zo života – priestor, kde skúmame, čo človeku vracia silu zvnútra aj navonok.
-
-##   Krátka verzia pre komunikáciu
-
-Joyee LAB
-Laboratórium radosti zo života.
-
-Skúmame, čo človeku vracia silu, jasnosť a chuť žiť — bez zázračných sľubov, bez strašenia a bez nároku na jedinú pravdu.
-
-##  Osobná poznámka
-
-Tento zápis vznikol ako odpamätanie momentu, keď sa názov a smer konečne spojili.
-
-Nie produkt.
-Nie služba.
-Nie kúra.
-
-Ale priestor.
-
-Priestor radosti.
-
-Joyee LAB.
 
 ---
 
@@ -253,4 +224,51 @@ Kedy spomaliť, prestať alebo vyhľadať odbornú pomoc.
 
 ## Praktický záver
 Opatrný, použiteľný záver bez univerzálneho nároku.
+```
 
+---
+
+## Vzťah k Dr.Fyto, TopTour a destináciám
+
+Joyee LAB nie je izolovaný projekt.
+
+Je to spoločný vnútorný priestor, v ktorom sa môžu prepájať:
+
+- **Dr.Fyto** – fyto-produkty, rastliny, prírodné látky, skúsenosť tela
+- **TopTour** – cestovný ruch, pobyty, zážitky, destinácie
+- **Zdravé** – znalostná báza, zápisy, poznanie, metodika
+- **decentralizované komunity** – život v konkrétnych miestach, spolupráca, miestna odolnosť
+- **Shinrin-Yoku** – vedomý pobyt v prírode, návrat k prostrediu, ktoré lieči nepriamo tým, že človeka vracia k sebe
+
+---
+
+## Jednovetové jadro
+
+> **Joyee LAB je laboratórium radosti zo života – priestor, kde skúmame, čo človeku vracia silu zvnútra aj navonok.**
+
+---
+
+## Krátka verzia pre komunikáciu
+
+**Joyee LAB**  
+*Laboratórium radosti zo života.*
+
+Skúmame, čo človeku vracia silu, jasnosť a chuť žiť — bez zázračných sľubov, bez strašenia a bez nároku na jedinú pravdu.
+
+---
+
+## Osobná poznámka
+
+Tento zápis vznikol ako odpamätanie momentu, keď sa názov a smer konečne spojili.
+
+Nie produkt.  
+Nie služba.  
+Nie kúra.
+
+Ale priestor.
+
+Priestor radosti.
+
+**Joyee LAB.**
+
+**Radosť žiť!**
