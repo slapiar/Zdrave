@@ -112,11 +112,13 @@ Joyee LAB skúma malé aj veľké kroky, ktoré môžu človeku vracať:
 
 Témy môžu byť napríklad:
 
-- les a pobyt v prírode
+- Radosť zo života, ako najvyšší cieľ
+- Príroda životu, Človek prírode
+- Zdravie a krása
+- Výživa 
 - Shinrin-Yoku / kúpanie sa prírodou
+- Očistné a hojivé pobyty v lese a prírode vôbec
 - byliny a fyto-produkty
-- stévia
-- bór a minerály
 - spánok
 - slnko a tieň
 - jedlo
